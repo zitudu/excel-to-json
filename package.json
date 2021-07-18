@@ -1,0 +1,12 @@
+{
+  "name": "excel-to-json",
+  "version": "1.0.0",
+  "description": "Convert excel sheet to json (nested rows and columns are supported).",
+  "main": "index.js",
+  "repository": "https://github.com/zitudu/excel-to-json",
+  "author": "zitudu",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
